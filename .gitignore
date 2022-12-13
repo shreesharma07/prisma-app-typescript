@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+package-lock.json
+Temp/
+logs/
+
+# Ignore ENV Files
+.env
